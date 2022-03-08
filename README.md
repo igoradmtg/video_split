@@ -8,9 +8,9 @@ install ffmpeg
 
 install php
 
-download file split_video.php
+download file split_video.php or split_video_by_time.php 
 
-edit file split_video.php
+edit file split_video.php or split_video_by_time.php 
 
 ```PHP
 

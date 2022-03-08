@@ -20,5 +20,10 @@ $clip_duration = 120; // New clip duration -
 $clip_timer_shift = 80; // Timer shift - $clip_timer_shift = $clip_duration
 
 ```
+# Execute
 
-exec file split_video.php
+php -f split_video.php
+
+or
+
+php -f split_video_by_time.php 
